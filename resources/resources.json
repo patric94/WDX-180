@@ -1730,6 +1730,1059 @@
       "language": [
         "en"
       ]
+    },
+    "understand-website-accessibility-with-the-firefox-accessibility-inspector": {
+      "type": "YouTube",
+      "duration": 481,
+      "title": "Understand Website Accessibility with the Firefox Accessibility Inspector",
+      "date": "11/11/2019",
+      "youtube": {
+        "id": "7mqqgIxX_NU",
+        "channel_id": "UCh5UlGiu9d6LegIeUCW4N1w",
+        "channel_title": "Mozilla Developer",
+        "thumbnail_url": "https://i.ytimg.com/vi/7mqqgIxX_NU/sddefault.jpg"
+      },
+      "tags": [
+        "mozilla",
+        "firefox",
+        "mozilla developer",
+        "css",
+        "html",
+        "a11y",
+        "accessibility",
+        "front-end development",
+        "web design",
+        "code",
+        "Accessibility Inspector",
+        "Accessibility tools",
+        "WCAG"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "claude-shannon-the-man-who-turned-paper-into-pixels": {
+      "type": "YouTube",
+      "duration": 352,
+      "title": "Claude Shannon: The Man Who Turned Paper Into Pixels",
+      "date": "17/06/2014",
+      "youtube": {
+        "id": "Q8rVJZ-VDKQ",
+        "channel_id": "UC3tCNZAURUKbrp2dQkZQy2w",
+        "channel_title": "Adam Westbrook",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q8rVJZ-VDKQ/sddefault.jpg"
+      },
+      "tags": [
+        "Adam Westbrook",
+        "delve.tv",
+        "video essay",
+        "Information Theory",
+        "Claude Shannon",
+        "Binary",
+        "How computers work",
+        "How the digital world was born",
+        "how binary works",
+        "transistors",
+        "A mathematical theory of communication",
+        "Telephones",
+        "Information",
+        "Noise",
+        "Probabilities",
+        "Gambling",
+        "motion graphics",
+        "documentary",
+        "video",
+        "Chopin",
+        "information age",
+        "digital age",
+        "juggling",
+        "what does digital mean",
+        "digital",
+        "learning",
+        "curiosity",
+        "delve",
+        "Vincent Van Gogh",
+        "Charles and Ray Eames",
+        "knowledge",
+        "history"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "the-bit-player-2018---claude-shannon---legendas-pt-br": {
+      "type": "YouTube",
+      "duration": 5152,
+      "title": "The Bit Player 2018 - Claude Shannon - Legendas PT-BR",
+      "date": "05/05/2022",
+      "youtube": {
+        "id": "CCrpgUM_rYc",
+        "channel_id": "UCdoP-TuqD5zRj3QnNR8IC8g",
+        "channel_title": "Odradek",
+        "thumbnail_url": "https://i.ytimg.com/vi/CCrpgUM_rYc/sddefault.jpg"
+      },
+      "language": [
+        "en"
+      ]
+    },
+    "how-to-be-a-git-expert": {
+      "type": "YouTube",
+      "duration": 2786,
+      "title": "How to be a git expert",
+      "date": "03/02/2022",
+      "youtube": {
+        "id": "hZS96dwKvt0",
+        "channel_id": "UCfghz6BODc_PFP6qiLtZd-g",
+        "channel_title": "Floating Little Leaves of Code",
+        "thumbnail_url": "https://i.ytimg.com/vi/hZS96dwKvt0/sddefault.jpg"
+      },
+      "tags": [
+        "git"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "the-undersea-cable-that-linked-the-world": {
+      "type": "YouTube",
+      "duration": 310,
+      "title": "The Undersea Cable That Linked The World",
+      "date": "16/04/2019",
+      "youtube": {
+        "id": "nV0Wc9Y33so",
+        "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+        "channel_title": "Bloomberg Originals",
+        "thumbnail_url": "https://i.ytimg.com/vi/nV0Wc9Y33so/sddefault.jpg"
+      },
+      "tags": [
+        "News",
+        "bloomberg",
+        "telegraph",
+        "History",
+        "Transatlantic Cable",
+        "Undersea Cable",
+        "elon musk",
+        "entrepreneur",
+        "telephone",
+        "Internet",
+        "texting",
+        "technology",
+        "Richard Branson",
+        "19th Century"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "html-block-vs-inline-elements": {
+      "type": "YouTube",
+      "duration": 45,
+      "title": "HTML Block vs Inline Elements",
+      "date": "14/05/2021",
+      "youtube": {
+        "id": "XHjoohto2-w",
+        "channel_id": "UCeYUHG6o0YguM-g23htdsSw",
+        "channel_title": "GCFLearnFree",
+        "thumbnail_url": "https://i.ytimg.com/vi/XHjoohto2-w/sddefault.jpg"
+      },
+      "tags": [
+        "HTML",
+        "how to code",
+        "learn HTML",
+        "learn coding",
+        "website coding",
+        "coding for web browsers",
+        "understanding coding",
+        "understanding HTML",
+        "what is HTML",
+        "what is coding",
+        "gcf",
+        "gcfglobal",
+        "gcflearnfree",
+        "coding lessons",
+        "HTML lessons",
+        "understanding code",
+        "block elements",
+        "inline elements",
+        "stack horizontally",
+        "stack vertically",
+        "default values",
+        "what are block elements",
+        "what are inline elements",
+        "how to stack HTML elements",
+        "how to stack horizontally",
+        "how to stack vertically"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "css-basics-part2-cascades": {
+      "type": "YouTube",
+      "duration": 230,
+      "title": "CSS Basics (Part2) — Cascades",
+      "date": "04/11/2013",
+      "youtube": {
+        "id": "tZhmjgLQgXU",
+        "channel_id": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "channel_title": "DevTips",
+        "thumbnail_url": "https://i.ytimg.com/vi/tZhmjgLQgXU/sddefault.jpg"
+      },
+      "tags": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Web Development",
+        "Coding",
+        "Design",
+        "Dev Tips",
+        "Web Design",
+        "Website",
+        "Web",
+        "Internet",
+        "Internet code",
+        "Tips",
+        "How To",
+        "tutorial",
+        "web design tuts",
+        "net tuts",
+        "web tuts",
+        "coding tutorial",
+        "advice",
+        "development advice",
+        "friendly internet",
+        "programming",
+        "programming help",
+        "html",
+        "css",
+        "javascript",
+        "workflow",
+        "code editing",
+        "design",
+        "graphic design",
+        "graphic designer",
+        "designer who codes",
+        "designers who code",
+        "design prototyping",
+        "Designer (Project Role)",
+        "Cascading Style Sheets (Programming Language)"
+      ]
+    },
+    "css-specificity-explained": {
+      "type": "YouTube",
+      "duration": 807,
+      "title": "CSS Specificity explained",
+      "date": "11/01/2018",
+      "youtube": {
+        "id": "c0kfcP_nD9E",
+        "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+        "channel_title": "Kevin Powell",
+        "thumbnail_url": "https://i.ytimg.com/vi/c0kfcP_nD9E/sddefault.jpg"
+      },
+      "tags": [
+        "Kevin Powell",
+        "tutorial",
+        "html",
+        "css",
+        "specificity",
+        "CSS Specificity",
+        "CSS Specificity explained",
+        "CSS Specificity tutorial"
+      ]
+    },
+    "learn-css-specificity-in-11-minutes": {
+      "type": "YouTube",
+      "duration": 686,
+      "title": "Learn CSS Specificity In 11 Minutes",
+      "date": "09/11/2019",
+      "youtube": {
+        "id": "CHyPGSpIhSs",
+        "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+        "channel_title": "Web Dev Simplified",
+        "thumbnail_url": "https://i.ytimg.com/vi/CHyPGSpIhSs/sddefault.jpg"
+      },
+      "tags": [
+        "webdevsimplified",
+        "css specificity",
+        "css specificity tutorial",
+        "css specificity explained",
+        "css specificity rules",
+        "css important",
+        "css !important",
+        "css selector",
+        "css tutorial",
+        "css for beginners",
+        "css specificity order",
+        "css specificity hierarchy",
+        "css specificity tutorial for beginners",
+        "css tutorial for beginners",
+        "css selector specificity",
+        "selector specificity",
+        "specificity",
+        "cascading style sheets",
+        "css !important tutorial",
+        "css selector tutorial",
+        "css",
+        "css explained"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "css-basics-part8-css-preprocessors": {
+      "type": "YouTube",
+      "duration": 679,
+      "title": "CSS Basics (Part8) — CSS Preprocessors",
+      "date": "16/12/2013",
+      "youtube": {
+        "id": "PJkWbezpHpE",
+        "channel_id": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "channel_title": "DevTips",
+        "thumbnail_url": "https://i.ytimg.com/vi/PJkWbezpHpE/sddefault.jpg"
+      },
+      "tags": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Web Development",
+        "Coding",
+        "Design",
+        "Dev Tips",
+        "Web Design",
+        "Website",
+        "Web",
+        "Internet",
+        "Internet code",
+        "Tips",
+        "How To",
+        "tutorial",
+        "web design tuts",
+        "net tuts",
+        "web tuts",
+        "coding tutorial",
+        "advice",
+        "development advice",
+        "friendly internet",
+        "programming",
+        "programming help",
+        "html",
+        "css",
+        "javascript",
+        "workflow",
+        "code editing",
+        "design",
+        "graphic design",
+        "graphic designer",
+        "designer who codes",
+        "designers who code",
+        "design prototyping",
+        "Less CSS",
+        "SASS CSS",
+        "SASS",
+        "Stylus",
+        "css preprocessor",
+        "css preprocessing"
+      ]
+    },
+    "learn-every-css-selector-in-20-minutes": {
+      "type": "YouTube",
+      "duration": 1178,
+      "title": "Learn Every CSS Selector In 20 Minutes",
+      "date": "07/07/2020",
+      "youtube": {
+        "id": "l1mER1bV0N0",
+        "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+        "channel_title": "Web Dev Simplified",
+        "thumbnail_url": "https://i.ytimg.com/vi/l1mER1bV0N0/sddefault.jpg"
+      },
+      "tags": [
+        "webdevsimplified",
+        "css selector crash course",
+        "css selectors",
+        "css selector tutorial",
+        "css selector specificity",
+        "css for beginners",
+        "css introduction",
+        "css selectors guide",
+        "css selector chaining",
+        "css tutorial",
+        "css project",
+        "css concepts",
+        "css guide",
+        "learn css quick",
+        "easy css",
+        "css beginner",
+        "css selector beginner",
+        "css beginner guide",
+        "css beginner tutorial",
+        "css selector guide",
+        "learn css",
+        "css tips",
+        "css tricks",
+        "css tips and tricks",
+        "css advanced",
+        "css advanced selectors",
+        "css",
+        "css easy"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "the-box-model-for-beginners-web-design-tutorial": {
+      "type": "YouTube",
+      "duration": 115,
+      "title": "The box model for beginners web design tutorial",
+      "date": "15/08/2017",
+      "youtube": {
+        "id": "MrAnu4zdjjY",
+        "channel_id": "UCELSb-IYi_d5rYFOxWeOz5g",
+        "channel_title": "Webflow",
+        "thumbnail_url": "https://i.ytimg.com/vi/MrAnu4zdjjY/sddefault.jpg"
+      },
+      "tags": [
+        "web design",
+        "webflow",
+        "responsive web design",
+        "graphic design",
+        "web development",
+        "cms",
+        "content management system",
+        "HTML",
+        "box model",
+        "layout"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "learn-css-box-model-in-8-minutes": {
+      "type": "YouTube",
+      "duration": 502,
+      "title": "Learn CSS Box Model In 8 Minutes",
+      "date": "16/03/2019",
+      "youtube": {
+        "id": "rIO5326FgPE",
+        "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+        "channel_title": "Web Dev Simplified",
+        "thumbnail_url": "https://i.ytimg.com/vi/rIO5326FgPE/sddefault.jpg"
+      },
+      "tags": [
+        "webdevsimplified",
+        "css box model",
+        "css box model tutorial",
+        "css box model explained",
+        "learn css box model",
+        "css box model explained fast",
+        "css box model quick",
+        "css box model fast",
+        "css box model example",
+        "box model tutorial",
+        "box model explained",
+        "box model css",
+        "box model css tutorial",
+        "box model css explained",
+        "box model for beginners",
+        "css padding vs margin",
+        "css padding and margin",
+        "css padding vs margin vs border",
+        "css padding",
+        "css margin",
+        "css spacing",
+        "learn css box model in 8 minutes"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "learngitbranching": {
+      "type": "Interactive Tutorial",
+      "identifier": "https://learngitbranching.js.org/",
+      "tags": [
+        "git",
+        "branches",
+        "interactive"
+      ]
+    },
+    "git-remotes-fundamentals": {
+      "type": "YouTube",
+      "duration": 632,
+      "title": "Git Remotes Fundamentals",
+      "date": "05/02/2018",
+      "youtube": {
+        "id": "5ctkqMqG6G4",
+        "channel_id": "UCtRaaXKGn_rrLIkkrARKYXA",
+        "channel_title": "CraftQuest",
+        "thumbnail_url": "https://i.ytimg.com/vi/5ctkqMqG6G4/sddefault.jpg"
+      },
+      "tags": [
+        "Git",
+        "Remotes in git",
+        "Git version control",
+        "Git remotes",
+        "mijingo"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "the-internets-accessibility-problem-and-how-to-fix-it-clive-loseby-ted": {
+      "type": "YouTube",
+      "duration": 813,
+      "title": "The Internet's Accessibility Problem — and How To Fix It | Clive Loseby | TED",
+      "date": "17/01/2023",
+      "youtube": {
+        "id": "QWPWgaDqbZI",
+        "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "channel_title": "TED",
+        "thumbnail_url": "https://i.ytimg.com/vi/QWPWgaDqbZI/sddefault.jpg"
+      },
+      "tags": [
+        "A11y",
+        "TEDTalk",
+        "TEDTalks",
+        "TED Talk",
+        "TED Talks",
+        "TED",
+        "technology",
+        "design",
+        "TEDx",
+        "Internet",
+        "disability",
+        "Clive Loseby"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "dom-api---javascript-tutorial-for-beginners": {
+      "type": "YouTube",
+      "duration": 2537,
+      "title": "DOM API - JavaScript Tutorial for beginners",
+      "date": "17/10/2023",
+      "youtube": {
+        "id": "wbQLEXg_urE",
+        "channel_id": "UCHa8J-xnRYOg5VuudfWpBgg",
+        "channel_title": "ColorCode",
+        "thumbnail_url": "https://i.ytimg.com/vi/wbQLEXg_urE/sddefault.jpg"
+      },
+      "tags": [
+        "#JavaScriptDOM",
+        "#DOMManipulation",
+        "#FrontEndDevelopment",
+        "#WebDevTips",
+        "#JSProgrammingTricks",
+        "#WebDesignWithJavaScript",
+        "#CodingLikeAPro",
+        "#JavaScriptFundamentals",
+        "#WebDevelopmentTutorial",
+        "#JavaScriptExplained",
+        "#DOMManipulationGuide",
+        "#DocumentObjectModel",
+        "#WebProgrammingTips",
+        "#JSWebDevelopment",
+        "#CodingSkills",
+        "#JavaScriptForBeginners",
+        "#FrontEndJS",
+        "#WebDevelopmentTools",
+        "#JavaScriptSkills",
+        "#CodingPro",
+        "#JavaScript101",
+        "#ProgrammingWithJS",
+        "#JStutorial",
+        "DOMAPI",
+        "JSDomAPI",
+        "JS dom",
+        "Web development",
+        "ReactJS",
+        "VueJS",
+        "AngularJS",
+        "Svelte",
+        "JS"
+      ],
+      "language": [
+        "en"
+      ],
+      "level": "Advanced",
+      "reviewers": [
+        {
+          "rating": 0.4,
+          "review": "  feedback regarding the video i will rate it 5/10 for beginner.\n\n          - this tutorial is good for some one who already know dom. ( but still i dont like it)\n          - the way of teaching and tool are bit advance.\n          - for demo he used console i believe it can be still completed for some  who are still new to JS\n          - he also used bind()method totally advance topic.\n          - like other 50%  tutorials on youtube i feel like he was only solving the problem but not telling what is the problem\n          - he also uses some short hands\n          - i might like it more if he would  start for the basics APIs  like getElementById() or querySeletor() (ok he went with the sequences of CRUD)\n          in collusion he is not explain in depth. there could be many thing added into 42''min video be he was more talkative(i felt bored) and distractive\n        \n          he is good content creator i have watched almost all his videos of \"10 things Js developers should know but doesn't know\" but still i didnt like this video not for the beginner not for intermediates.\n        \n          i couldnt make any notes and didn't learn anything new in 42 mins"
+        }
+      ]
+    },
+    "javascript-tutorial-for-beginners-learn-javascript-in-1-hour": {
+      "type": "YouTube",
+      "duration": 2897,
+      "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+      "date": "24/04/2018",
+      "youtube": {
+        "id": "W6NZfCO5SIk",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "channel_title": "Programming with Mosh",
+        "thumbnail_url": "https://i.ytimg.com/vi/W6NZfCO5SIk/sddefault.jpg"
+      },
+      "tags": [
+        "javascript tutorial",
+        "javascript for beginners",
+        "learn javascript for beginners",
+        "javascript basics",
+        "javascript course",
+        "javascript crash course",
+        "javascript programming",
+        "learn javascript",
+        "learning javascript",
+        "programming tutorial",
+        "js tutorial",
+        "javascript",
+        "javascript tutorial for beginners",
+        "javascript tutorials",
+        "javascript beginners",
+        "java script tutorial",
+        "javascript 2019",
+        "javascript lesson",
+        "web development",
+        "mosh hamedani",
+        "front end",
+        "javascript functions",
+        "code with mosh"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "terminal-commands-for-web-developers": {
+      "type": "YouTube",
+      "duration": 705,
+      "title": "Terminal Commands for Web Developers",
+      "date": "15/06/2020",
+      "youtube": {
+        "id": "YSj30jnvxKo",
+        "channel_id": "UCTBGXCJHORQjivtgtMsmkAQ",
+        "channel_title": "Steve Griffith - Prof3ssorSt3v3",
+        "thumbnail_url": "https://i.ytimg.com/vi/YSj30jnvxKo/sddefault.jpg"
+      },
+      "tags": [
+        "MAD9013",
+        "MAD9014",
+        "MAD9022",
+        "web development",
+        "steve flix",
+        "steveflix",
+        "web dev",
+        "professor steve",
+        "prof3ssorSt3v3",
+        "linux terminal",
+        "macos terminal",
+        "how to use the terminal",
+        "cli",
+        "terminal commands",
+        "WLS",
+        "windows linux subsystem",
+        "linux terminal commands",
+        "macos terminal commands",
+        "windows terminal commands",
+        "command prompt",
+        "bash shell",
+        "z shell",
+        "zsh",
+        "cd",
+        "ls",
+        "cp",
+        "mv",
+        "touch",
+        "rm",
+        "rmdir",
+        "mkdir",
+        "pwd"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "different-ways-to-open-chrome-devtools-devtools-tips": {
+      "type": "YouTube",
+      "duration": 283,
+      "title": "Different ways to open Chrome DevTools | DevTools Tips",
+      "date": "27/10/2022",
+      "youtube": {
+        "id": "X65TAP8a530",
+        "channel_id": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "channel_title": "Chrome for Developers",
+        "thumbnail_url": "https://i.ytimg.com/vi/X65TAP8a530/sddefault.jpg"
+      },
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "Chrome Devtools",
+        "chrome developer tools",
+        "intro to devtools tips",
+        "what are devtools tips",
+        "how to use devtools tips",
+        "devtools tips tutorial",
+        "devtools",
+        "chrome",
+        "developer",
+        "developers",
+        "google developer",
+        "google developers",
+        "google chrome developers",
+        "chrome developer",
+        "chrome developers",
+        "google chrome",
+        "Jecelyn Yeen",
+        "different ways to open devtools",
+        "how to open devtools",
+        "the different ways to open devtools"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "html-vs-dom-lets-debug-them": {
+      "type": "YouTube",
+      "duration": 312,
+      "title": "HTML vs DOM? Let’s debug them",
+      "date": "26/10/2023",
+      "youtube": {
+        "id": "J-02VNxE7lE",
+        "channel_id": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "channel_title": "Chrome for Developers",
+        "thumbnail_url": "https://i.ytimg.com/vi/J-02VNxE7lE/sddefault.jpg"
+      },
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "Chrome Devtools",
+        "chrome developer tools",
+        "intro to devtools tips",
+        "what are devtools tips",
+        "how to use devtools tips",
+        "devtools tips tutorial",
+        "devtools",
+        "chrome",
+        "developer",
+        "developers",
+        "google developer",
+        "google developers",
+        "google chrome developers",
+        "chrome developer",
+        "chrome developers",
+        "google chrome",
+        "Jecelyn Yeen"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "vscode-tailwindcss": {
+      "type": "VSCode Extension",
+      "identifier": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss",
+      "tags": [
+        "Tailwind",
+        "VSCode"
+      ]
+    },
+    "tailwind-in-100-seconds": {
+      "type": "YouTube",
+      "duration": 141,
+      "title": "Tailwind in 100 Seconds",
+      "date": "26/08/2021",
+      "youtube": {
+        "id": "mr15Xzb1Ook",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "channel_title": "Fireship",
+        "thumbnail_url": "https://i.ytimg.com/vi/mr15Xzb1Ook/sddefault.jpg"
+      },
+      "tags": [
+        "app development",
+        "lesson",
+        "tailwind",
+        "tailwindcss",
+        "webdev",
+        "web design",
+        "css"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "how-to-make-a-website-with-tailwind-css-step-by-step-tutorial-for-beginners": {
+      "type": "YouTube",
+      "duration": 1880,
+      "title": "How To Make A Website With Tailwind CSS Step By Step Tutorial For Beginners",
+      "date": "10/02/2023",
+      "youtube": {
+        "id": "8eQwgc9nc64",
+        "channel_id": "UCkjoHfkLEy7ZT4bA2myJ8xA",
+        "channel_title": "GreatStack",
+        "thumbnail_url": "https://i.ytimg.com/vi/8eQwgc9nc64/sddefault.jpg"
+      },
+      "tags": [
+        "web design",
+        "web development",
+        "website design for beginners",
+        "HTML and CSS",
+        "HTML website",
+        "How to make a website using HTML",
+        "tailwind css",
+        "tailwind css tutorial",
+        "tailwind css tutorial for beginners",
+        "tailwind css website",
+        "tailwind css web design",
+        "web design tailwind",
+        "responsive web design tailwind css",
+        "tailwind css project",
+        "web design project"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "tailwind-css---why-css-utility-classes-save-so-much-time": {
+      "type": "YouTube",
+      "duration": 1015,
+      "title": "Tailwind CSS - why CSS utility classes save so much time",
+      "date": "09/07/2021",
+      "youtube": {
+        "id": "oU5ar0dmQEY",
+        "channel_id": "UCVTlvUkGslCV_h-nSAId8Sw",
+        "channel_title": "LearnCode.academy",
+        "thumbnail_url": "https://i.ytimg.com/vi/oU5ar0dmQEY/sddefault.jpg"
+      },
+      "tags": [
+        "tailwind css",
+        "tailwind css tutorial",
+        "tailwindcss tutorial",
+        "tailwind css react",
+        "tailwind css crash course",
+        "tailwindcss purgecss",
+        "tailwind css purge css",
+        "purge css classes",
+        "how to use tailwind css in html",
+        "css tutorial",
+        "tailwinds css",
+        "tailwind tutorial",
+        "tailwind tutorial 2021",
+        "tailwind css purgecss",
+        "tailwind 2021",
+        "tailwind tutorial for beginners",
+        "Tailwind css vue"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "learn-sass-in-20-minutes-sass-crash-course": {
+      "type": "YouTube",
+      "duration": 1182,
+      "title": "Learn Sass In 20 Minutes | Sass Crash Course",
+      "date": "13/03/2019",
+      "youtube": {
+        "id": "Zz6eOVaaelI",
+        "channel_id": "UClb90NQQcskPUGDIXsQEz5Q",
+        "channel_title": "developedbyed",
+        "thumbnail_url": "https://i.ytimg.com/vi/Zz6eOVaaelI/sddefault.jpg"
+      },
+      "tags": [
+        "learn sass",
+        "learn sass css",
+        "learn scss",
+        "sass tutorial",
+        "scss tutorial",
+        "sass tutorial 2018",
+        "how to install sass",
+        "visual studio code sass",
+        "visual studio code scss",
+        "visual studio code",
+        "free sass tutorials",
+        "scss tutorial for beginners",
+        "how to install sass css",
+        "free sass course",
+        "Learn Sass In 20 Minutes",
+        "sass in 20 minutes",
+        "sass course",
+        "sass compiler"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "why-i-use-the-bem-naming-convention-for-my-css": {
+      "type": "YouTube",
+      "duration": 423,
+      "title": "Why I use the BEM naming convention for my CSS",
+      "date": "09/11/2018",
+      "youtube": {
+        "id": "SLjHSVwXYq4",
+        "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+        "channel_title": "Kevin Powell",
+        "thumbnail_url": "https://i.ytimg.com/vi/SLjHSVwXYq4/sddefault.jpg"
+      },
+      "tags": [
+        "Kevin Powell",
+        "tutorial",
+        "html",
+        "css",
+        "css bem",
+        "bem naming convention",
+        "css bem naming",
+        "css bem methodology",
+        "css bem best practice",
+        "css bem examples",
+        "why i use bem",
+        "css naming conventions",
+        "css naming conventions best practices",
+        "css naming classes"
+      ]
+    },
+    "cs-discoveries-introduction-to-arrays": {
+      "type": "YouTube",
+      "duration": 227,
+      "title": "CS Discoveries: Introduction to Arrays",
+      "date": "28/02/2018",
+      "youtube": {
+        "id": "seBDTeZmb-k",
+        "channel_id": "UCJyEBMU1xVP2be1-AoGS1BA",
+        "channel_title": "Code.org",
+        "thumbnail_url": "https://i.ytimg.com/vi/seBDTeZmb-k/sddefault.jpg"
+      },
+      "tags": [
+        "Code.org",
+        "computer science",
+        "code",
+        "Hour of Code"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "https-developer-mozilla-org-en-us-docs-learn-getting-started-with-the-web-java-script-basics": {
+      "identifier": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+      "type": "MDN",
+      "module": [
+        "curriculum/week01/resources/JavaScript_Basics/index.md",
+        "curriculum/week01/resources/What_is_JavaScript/index.md"
+      ]
+    },
+    "what-is-javascript-creator-brendan-eich-explains": {
+      "type": "YouTube",
+      "duration": 73,
+      "title": "What is JavaScript? Creator Brendan Eich explains",
+      "date": "21/05/2018",
+      "youtube": {
+        "id": "kB32-Cvj0X4",
+        "channel_id": "UC46BCt0WGx7_BHvkSlQnEFw",
+        "channel_title": "InfoWorld",
+        "thumbnail_url": "https://i.ytimg.com/vi/kB32-Cvj0X4/sddefault.jpg"
+      },
+      "tags": [
+        "computer",
+        "technology",
+        "IT",
+        "tech",
+        "javascript",
+        "Brendan Eich",
+        "programming",
+        "computer language",
+        "coding",
+        "programmers",
+        "coders"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "a-brief-history-of-javascript-talk-by-brendan-eich-creator-of-javascript": {
+      "type": "YouTube",
+      "duration": 1075,
+      "title": "A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript)",
+      "date": "27/04/2018",
+      "youtube": {
+        "id": "qKJP93dWn40",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "channel_title": "freeCodeCamp.org",
+        "thumbnail_url": "https://i.ytimg.com/vi/qKJP93dWn40/sddefault.jpg"
+      },
+      "tags": [
+        "learn to code",
+        "programming",
+        "coding",
+        "javascript",
+        "web development",
+        "web design",
+        "tutorial",
+        "python",
+        "android",
+        "security",
+        "testing",
+        "coding tutorial",
+        "javascript tutorial",
+        "web development tutorial",
+        "html",
+        "css",
+        "design",
+        "html tutorial",
+        "css tutorial",
+        "learn to program",
+        "learn how to code",
+        "learn how to program",
+        "get a programmer job",
+        "get a developer job",
+        "python tutorial",
+        "android tutorial",
+        "linux",
+        "learn programming",
+        "learn coding",
+        "linux tutorial",
+        "learn linux"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "intro-to-databases-1-overview": {
+      "type": "YouTube",
+      "duration": 526,
+      "title": "Intro to Databases 1 Overview",
+      "date": "23/05/2013",
+      "youtube": {
+        "id": "D98mNPLccSg",
+        "channel_id": "UCkgGZlIeBM7rjwNBcVee3WQ",
+        "channel_title": "Al Zimmerman",
+        "thumbnail_url": "https://i.ytimg.com/vi/D98mNPLccSg/sddefault.jpg"
+      },
+      "tags": [
+        "Database",
+        "databases",
+        "relational database",
+        "data",
+        "information",
+        "big data",
+        "tables",
+        "entitity",
+        "entities",
+        "attributes",
+        "record",
+        "records",
+        "relationships"
+      ]
+    },
+    "2-just-enough-javascript13-while-loops09-infinite-loopsguidemp4": {
+      "type": "YouTube",
+      "duration": 305,
+      "title": "./2-just-enough-javascript/13-while-loops/09-infinite-loops/guide.mp4",
+      "date": "24/11/2023",
+      "youtube": {
+        "id": "rj2R5oy8xIw",
+        "channel_id": "UCQackSPQdLdcVwfHaydsSAA",
+        "channel_title": "in-tech-gration",
+        "thumbnail_url": "https://i.ytimg.com/vi/rj2R5oy8xIw/sddefault.jpg"
+      }
     }
   },
   "creators": {}

@@ -8,7 +8,8 @@ plugins:
 
 # EXCLUDE FILES & FOLDERS FROM BUILD: 
 exclude: 
-  - resources/codecademy
+  - curriculum/TBP/
+  # - curriculum/modules/
   - app
   - components
   - public

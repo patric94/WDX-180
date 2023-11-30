@@ -156,7 +156,9 @@ My legs are made of cardboard and I am married to a fish.
 
 Now, go ahead and enclose the title (`My short story`) in a Heading 1 element and separate the two paragraphs using `<p>` tags.
 
-> ▶️ Here's a [**video walkthrough**](https://www.youtube.com/watch?v=V-VrI-s6vXQ) in case you need some help. 🙂
+> ▶️ Here's a [**video walkthrough**](https://www.youtube.com/watch?v=V-VrI-s6vXQ) in case you need some help. 
+>
+> _(Don't forget to always check the video description for resources, links and updates that accompany it.)_ 🙂 
 
 <!-- 
  {{ EmbedLiveSample('Active_learning_Giving_our_content_structure', 700, 400, "", "") }} 
@@ -577,7 +579,7 @@ The finished example should look like this:
 
 ## Task 3
 
-In this task, you are provided with a paragraph, and your aim is to use some inline elements to mark up a couple of appropriate words with strong importance, and a couple with emphasis. Save the file in `user/week02/exercises/html_text_fundamentals/basic-text2.html`.
+In this task, you are provided with a paragraph, and your aim is to use some inline elements to mark up a couple of appropriate words with strong importance, and a couple with emphasis. Save the file in `user/week02/exercises/html_text_fundamentals/basic-text3.html`.
 
 ```html
 <!DOCTYPE html>

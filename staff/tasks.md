@@ -16,6 +16,29 @@
 
 ## CONTENT
 
+  ### Contribute Content Preflight Checklist
+
+  - [ ] Check the final text with the [Grammarly App](https://grammarly.com/) and make all necessary changes.
+
+  - [ ] Ensure that any date/time-related sentences are relevant or avoid using them altogether. For example, "what have you learned yesterday/past week" should probably be replaced with "what have you learned in the previous Module(s)", "What have you learned from the Git fundamentals section/module" or something similar.
+
+  - [ ] Avoid too informal language, e.g. "you gonna remember" =(replace with)=> "you are going to remember"
+
+  - [ ] Make sure that all links inside the Modules, open up in a new Tab (either using the HTML `target="_blank"` attribute or the Jekyll markdown equivalent `{:target="_blank"}`)
+
+  - [ ] Make sure to comment the `Summary` or `Extra Resources` sections if there is not content:
+
+    ```markdown
+    ### [Extra Resources]
+    ### Sources and Attributions
+    ```
+    =>
+
+    ```markdown
+    <!-- ### [Extra Resources] -->
+    ### Sources and Attributions
+    ```
+
   ### List of MDN articles and resources that must be integrated 
 
   The following resources must be reviewed, updated and integrated into the platform in order to be available offline:
@@ -147,6 +170,13 @@
 
     `html-nolint example-bad`
 
+    - Fix the following issue:
+
+      These links: `![](./assets/Comm.Insecure.png)`
+      Become: `![](assets/./assets/Comm.Insecure.png)`
+
+      They shouldn't!
+
   ### Create linter for the /user/progress.draft.*.csv files
 
     - Project Manager: Kostas Minaidis (@kostasx)
@@ -221,45 +251,6 @@
 
   - [Next.js CRUD API](#csv-crud-api) for `.csv` files found in the `/user` directory
   - Read, parse and display markdown content from `curriculum` folder in Next.js
-
-  ### CSV CRUD API
-
-  The WDX platform provides a `./user` folder that contains all the user-related data, such as personal progress tracking via `.csv` files, submitted exercises, etc.
-
-  For this task, we are focusing on managing the `.csv` files which are tracking the user's progress and can be found under the `./user/` directory, named `progress.draft.60.csv`, `progress.draft.120.csv` and `progress.draft.180.csv`.
-
-  In order to manage these files efficiently and through different environments (e.g. command line, REST API, browser, etc.) the following set of tools must be developed:
-
-  - At a very low level, we need to have a TypeScript library that reads, writes, updates and deletes (CRUD) the `progress.draft.*.csv` files which have a consistent table format. The library should expose (exports) a set of well-tested functions that perform these CRUD operations on the table contents of these files. Here are some of the required operations:
-
-  1. Read the full contents of a `.csv` file
-  2. Read a single row from a `.csv` file
-  3. Read multiple rows from a `.csv` file
-  4. Filter the row output (e.g. from 1, 2 and 3) to contain only a selected set of columns
-  5. Read rows and columns in ascending or descending order
-  6. Read rows and columns based on a filtering callback function (e.g. select columns that contain a certain keyword)
-  7. Update a row
-  8. Update a column
-  9. Lint/test that a row, column or a whole `.csv` contains the correct syntax, according to the CSV standards and a specific Schema for each column (e.g. a column age should only contain 3-digit numbers, etc.)
-
-  - At a higher level, a Next.js API should be developed that is built on top of the low-level CSV CRUD library, exposing the same CRUD functionality through a REST interface.
-
-  - At a UI level, a Spreadsheet/CSV viewer should be able to read and display the `.csv` files in way much like the `Google Sheet` or `MS Excel Online` apps via the Next.js app. The users will be able to see the `progress.draft.*.csv` files in a nice UI and also be able to update them, while at the same time have the app protect them from entering invalid data.
-
-  Research: the following libraries are know to provide similar functionality and therefore should be the first step for researching tools that will help the development of this feature.
-
-  - [https://github.com/adaltas/node-csv](https://github.com/adaltas/node-csv)
-  - **SheetJS:** [https://github.com/SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) ([Docs](https://docs.sheetjs.com/docs/demos/frontend/react/))
-  - [https://github.com/iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet)
-  - [https://handsontable.com/docs/javascript-data-grid/installation/](https://handsontable.com/docs/javascript-data-grid/installation/)
-  - [https://github.com/exceljs/exceljs](https://github.com/exceljs/exceljs)
-  - [https://github.com/natergj/excel4node](https://github.com/natergj/excel4node)
-  - [https://github.com/silevis/reactgrid](https://github.com/silevis/reactgrid)
-  - [https://github.com/ashishd751/react-excel-renderer](https://github.com/ashishd751/react-excel-renderer)
-  - [https://github.com/nzambello/react-csv-reader](https://github.com/nzambello/react-csv-reader)
-
-  - Tutorials:
-    - [https://medium.com/@brandonlostboy/build-it-better-next-js-crud-api-b45d2e923896](https://medium.com/@brandonlostboy/build-it-better-next-js-crud-api-b45d2e923896)
 
 ## HARDWARE / IT
 

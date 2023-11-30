@@ -1,6 +1,2 @@
 Week,Day,Concept,Task,Level,Confidence,Completed,Instructions
-6,2,CSS 2 & Performance,Read 'Fundamental text and font styling',Beginner,0-10,FALSE,Update FALSE to TRUE in the COMPLETED column
-6,2,CSS 2 & Performance,Read 'Styling lists',Beginner,0-10,FALSE,Update FALSE to TRUE in the COMPLETED column
-6,2,CSS 2 & Performance,Read 'Styling links',Beginner,0-10,FALSE,Update FALSE to TRUE in the COMPLETED column
-6,2,CSS 2 & Performance,Read 'Web fonts',Beginner,0-10,FALSE,Update FALSE to TRUE in the COMPLETED column
-6,2,CSS 2 & Performance,Complete the exercise 'Typesetting a community school homepage',Beginner,0-10,FALSE,Upload the required assets to the corresponding folder ('/user/week06/exercises/typesetting_a_homepage/')
+6,2,CSS Frameworks & Intro to Programming: How To Make A Website With Tailwind CSS,Complete the 'Make a Website with Tailwind CSS' challenge and paste the URL of the website at the last column (replacing the instructions),Beginner,0-10,FALSE,Update FALSE to TRUE in the COMPLETED column
