@@ -1,0 +1,37 @@
+input: curriculum/schedule/weekly.draft.md
+daily_input: curriculum/schedule/daily.draft.md
+title: Intermediate JavaScript 
+# title: Functional Programming 1, Templating, JavaScript Frameworks
+schedule: 
+  days:
+    1: # 
+      # file://./../modules/generics/intermediate-generic.md
+      module: generics/intermediate-generic.md
+    2: # 
+      # file://./../modules/generics/group-project-generic.md
+      module: generics/group-project-generic.md
+    3: # Templating
+      # file://./../modules/generics/intermediate-generic.md
+      module: generics/intermediate-generic.md
+    4: # 
+      # file://./../modules/generics/group-project-generic.md
+      module: generics/group-project-generic.md
+    5: # Let's Build jQuery
+      # file://./../modules/generics/intermediate-generic.md
+      module: generics/intermediate-generic.md
+
+# ---
+# DAY 1: What is Functional Programming?
+# First https://reactivex.io/learnrx/ exercises
+
+# DAY 2: More https://reactivex.io/learnrx/
+
+# DAY 3: HTML Templates, Template Literals and other patterns (type="text/x-template", Mustache)
+# ```html
+# <script type="text/x-template">
+#   Let's change {{ this_placeholder }} with different values!
+# </script>
+# ```
+# file:///Users/kostasx/Drive/EVENTLOOP.PRIVATE/BOOTCAMP/INTECHGRATION/STUDY/KevlinHenneyTemplate.jpeg
+
+# DAY 5: $(), chaining, on("click"), text(), val(), html(), load(), css()

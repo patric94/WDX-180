@@ -1,5 +1,5 @@
 {
-  "$schema": "./resources.schema.json",
+  "$schema": "./schemas/resources.schema.json",
   "resources": {
     "how-computers-work-binary-data": {
       "title": "How Computers Work: Binary & Data",
@@ -2783,6 +2783,141 @@
         "channel_title": "in-tech-gration",
         "thumbnail_url": "https://i.ytimg.com/vi/rj2R5oy8xIw/sddefault.jpg"
       }
+    },
+    "quokka-the-javascript-scratchpad": {
+      "type": "YouTube",
+      "duration": 688,
+      "title": "Quokka | The JavaScript Scratchpad",
+      "date": "08/03/2021",
+      "youtube": {
+        "id": "f_sEWa5hA0Q",
+        "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+        "channel_title": "Traversy Media",
+        "thumbnail_url": "https://i.ytimg.com/vi/f_sEWa5hA0Q/sddefault.jpg"
+      },
+      "tags": [
+        "quokka",
+        "quokka.js",
+        "javascript",
+        "vscode",
+        "vs code",
+        "vscode extensions"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "javascript-dom-manipulation-mastery-a-comprehensive-guide": {
+      "type": "YouTube",
+      "duration": 5133,
+      "title": "JavaScript DOM Manipulation Mastery: A Comprehensive Guide",
+      "date": "11/07/2023",
+      "youtube": {
+        "id": "BGkc6dKUZ84",
+        "channel_id": "UC8lxnUR_CzruT2KA6cb7p0Q",
+        "channel_title": "Envato Tuts+",
+        "thumbnail_url": "https://i.ytimg.com/vi/BGkc6dKUZ84/sddefault.jpg"
+      },
+      "tags": [
+        "javascript dom",
+        "javascript dom tutorial",
+        "javascript dom crash course",
+        "javascript",
+        "add classes in javascript",
+        "what is the website dom",
+        "javascript parent",
+        "website node",
+        "javascript tutorials",
+        "tutorial javascript",
+        "what is dom",
+        "dom",
+        "simple javascript",
+        "what is the dom",
+        "js",
+        "javascript crash course",
+        "javascript for beginners",
+        "dom explained",
+        "javascript node",
+        "js tutorial",
+        "javascript tutorial",
+        "javascript course",
+        "javascript course full",
+        "javascript course for intermediate"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "introduction-to-javascript-objects": {
+      "type": "YouTube",
+      "duration": 231,
+      "title": "Introduction to JavaScript Objects",
+      "date": "12/11/2020",
+      "youtube": {
+        "id": "OJBlJI1vEK8",
+        "channel_id": "UCpaabVZEeuXqlv8VPQvtTdQ",
+        "channel_title": "SkillsReactor",
+        "thumbnail_url": "https://i.ytimg.com/vi/OJBlJI1vEK8/sddefault.jpg"
+      },
+      "tags": [
+        "javascript objects",
+        "learn javascript",
+        "what are objects in javascript",
+        "what are javascript objects",
+        "create objects in javascript",
+        "how to create objects in javascript",
+        "javascript objects for beginners",
+        "javascript tutorial 2020",
+        "learn javascript programming for beginners",
+        "javascript objects explained",
+        "javascript objects and methods",
+        "Javascript objects tutorial"
+      ],
+      "language": [
+        "en"
+      ]
+    },
+    "discovering-javascript-object-notation-with-douglas-crockford": {
+      "type": "YouTube",
+      "duration": 428,
+      "title": "Discovering JavaScript Object Notation with Douglas Crockford",
+      "date": "29/03/2012",
+      "youtube": {
+        "id": "kc8BAR7SHJI",
+        "channel_id": "UCSVKswAwikRd8ZS3AmSnuKg",
+        "channel_title": "ieeeComputerSociety",
+        "thumbnail_url": "https://i.ytimg.com/vi/kc8BAR7SHJI/sddefault.jpg"
+      },
+      "tags": [
+        "JSON",
+        "JavaScript",
+        "XML",
+        "Douglas Crockford"
+      ]
+    },
+    "select-all-siblings-of-an-element-using-has": {
+      "type": "YouTube",
+      "duration": 60,
+      "title": "Select all siblings of an element using :has()",
+      "date": "22/11/2023",
+      "youtube": {
+        "id": "Ue3VUsZwAJ0",
+        "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+        "channel_title": "Kevin Powell",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ue3VUsZwAJ0/sddefault.jpg"
+      },
+      "tags": [
+        "Kevin Powell",
+        "css",
+        "front-end",
+        "frontend",
+        "html",
+        "tutorial"
+      ]
+    },
+    "what-is-a-software-post-mortem": {
+      "type": "Blog Post",
+      "identifier": "https://www.freecodecamp.org/news/what-is-a-software-post-mortem/"
     }
   },
   "creators": {}
